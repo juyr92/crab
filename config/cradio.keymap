@@ -32,9 +32,9 @@
             left_layer {
         bindings = <
         &kp ESC   &kp LBKT    &kp UP     &kp RBKT     &kp LSHFT       &kp EQUAL   &kp NUM_7   &kp NUM_8   &kp NUM_9   &kp NUM_0
-        &kp TAB   &kp LEFT    &kp DOWN   &kp RIGHT    &kp F           &kp MINUS   &kp NUM_4   &kp NUM_5   &kp NUM_6   &kp GRAVE
+        &kp TAB   &kp LEFT    &kp DOWN   &kp RIGHT    &kp F           &kp MINUS   &kp NUM_4   &kp NUM_5   &kp NUM_6   &kp SEMI
         &kp LCTRL &kp Z       &kp X      &kp C        &kp V           &kp SLASH   &kp NUM_1   &kp NUM_2   &kp NUM_3   &kp BSLH
-                                         &kp LGUI     &trans          &kp RALT    &kp SEMI
+                                         &kp LGUI     &trans          &kp GRAVE    &kp SEMI
         >;
         };
 
